@@ -1,0 +1,8 @@
+node_modules/
+keys/
+.env
+.well-known
+vast-formula-399002-2de10e199a5e.json
+firebaseservice.json
+sheets.json
+gmail.json
